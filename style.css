@@ -19,3 +19,42 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.section-heading{
+    margin-bottom: 50px;
+}
+.org-color{
+    color: #FF9D00;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1, .cat2, .cat3 h1{
+    color: #fff;
+}
+.cat1{
+    background-image: linear-gradient(to left, #FF9C35 0%, #FFD019 100%);
+}
+.cat2{
+    background-image: linear-gradient(to left, #FF589B 0%, #FF136F 100%);
+}
+.cat3{
+    background-image: linear-gradient(to left, #07F8C3 0%, #4289FF 100%);
+}
+.categories img{
+    width: 100px;
+}
+.black-btn{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px #bba09f;
+    text-align: center;
+    padding: 5px 15px;
+}
