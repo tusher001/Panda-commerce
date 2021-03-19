@@ -58,3 +58,21 @@
     text-align: center;
     padding: 5px 15px;
 }
+#contact{
+    padding: 80px 0px;
+    text-align: center;
+}
+.input-area{
+    border: none;
+    background-color: #fff;
+    padding: 10px 20px;
+    margin: 20px 0px;
+    width: 450px;
+    border-radius: 10px;
+}
+#contact p{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
